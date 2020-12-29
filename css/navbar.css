@@ -1,0 +1,8 @@
+.navbar {
+    background-color: var(--purple);
+    font-family: 'Montserrat',  sans-serif ;
+}
+
+.navbar a{
+    color: white;
+}
