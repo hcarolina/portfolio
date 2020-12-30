@@ -1,8 +1,9 @@
-#About{
-    background-color: var(--pink);
+#about{
+    /* background-color: var(--pink); */
     font-family: 'Montserrat',  sans-serif ;
+    /* opacity: 75%; */
 }
 
 #AboutMe{
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }

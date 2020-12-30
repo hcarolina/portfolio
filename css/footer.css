@@ -1,8 +1,7 @@
 #footer{
-    background-color: var(--purple);
+    /* background-color: var(--purple); */
     font-family: 'Montserrat',  sans-serif ;
     text-align: center;
-    height: 80px;
 }
 
 .social a{

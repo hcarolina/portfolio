@@ -1,3 +1,4 @@
 body{
-    background-color: var(--pink);
+    /* background-color: var(--pink); */
+    background: linear-gradient( rgba(249,120,114,1) 30%, rgba(136,82,131,1) 60%, rgba(91,74,144,1) 100%);
 }

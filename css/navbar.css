@@ -1,6 +1,7 @@
 .navbar {
     background-color: var(--purple);
     font-family: 'Montserrat',  sans-serif ;
+    font-weight: bold;
 }
 
 .navbar a{
